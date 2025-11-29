@@ -2,7 +2,7 @@
 
 ## Overview
 
-As a software engineer, I am always looking for opportunities to deepen my understanding of real-world communication systems. Networking is an essential skill for building modern distributed applications such as chat servers, IoT devices, multiplayer games, dashboards, and remote services.
+I am always looking for opportunities to deepen my understanding of real-world communication systems. Networking is an essential skill for building modern distributed applications such as chat servers, IoT devices, multiplayer games, dashboards, and remote services.
 
 This project is a fully functional networking system that demonstrates secure, structured communication between multiple programs running simultaneously on the same network. It includes:
 
