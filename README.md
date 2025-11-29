@@ -54,10 +54,10 @@ The purpose of building this software was to improve my knowledge and experience
 A 4–5 minute video demonstrates how to start the server, run the terminal and GUI clients, show multi-client communication, use admin commands, and walk through the code.
 
 **YouTube Demo Video:**
-*(Insert link here)*
+[*(Insert link here)*](https://youtu.be/K-qL4mHDBu8)
 
 **GitHub Repository:**
-*(Insert link here)*
+[*(Insert link here)*](https://github.com/elorajm/NetworkingModule)
 
 ---
 
